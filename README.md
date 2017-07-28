@@ -46,7 +46,9 @@ pikachu
 bravo
 ```
 
-![Bravo](https://i.imgur.com/7UehQva.gif)
+<p align="center">
+ <img alt="Bravo" style="display: none; margin: 0 auto;" src="https://i.imgur.com/7UehQva.gif">
+</p>
 
 ---
 
@@ -60,7 +62,9 @@ bravo
 ghost
 ```
 
-![Ghost](https://i.imgur.com/olm7u2x.gif)
+<p align="center">
+ <img alt="Ghost" style="display: none; margin: 0 auto;" src="https://i.imgur.com/olm7u2x.gif">
+</p>
 
 ---
 
@@ -74,7 +78,9 @@ ghost
 britney
 ```
 
-![Britney](https://i.imgur.com/DvwoNWS.gif)
+<p align="center">
+ <img alt="Britney" style="display: none; margin: 0 auto;" src="https://i.imgur.com/DvwoNWS.gif">
+</p>
 
 ---
 
@@ -88,7 +94,9 @@ britney
 pikarun
 ```
 
-![Pikarun](https://i.imgur.com/CX6WuNh.gif)
+<p align="center">
+ <img alt="Pikarun" style="display: none; margin: 0 auto;" src="https://i.imgur.com/CX6WuNh.gif">
+</p>
 
 ---
 
@@ -102,7 +110,9 @@ pikarun
 catrun
 ```
 
-![Catrun](https://i.imgur.com/fMu33z0.gif)
+<p align="center">
+ <img alt="Catrun" style="display: none; margin: 0 auto;" src="https://i.imgur.com/fMu33z0.gif">
+</p>
 
 ---
 
@@ -116,7 +126,9 @@ catrun
 koggy
 ```
 
-![Koggy](https://i.imgur.com/OWPt85z.gif)
+<p align="center">
+ <img alt="Koggy" style="display: none; margin: 0 auto;" src="https://i.imgur.com/OWPt85z.gif">
+</p>
 
 ---
 
@@ -130,7 +142,9 @@ koggy
 sonic
 ```
 
-![Sonic](https://i.imgur.com/zrqaPGm.gif)
+<p align="center">
+ <img alt="Sonic" style="display: none; margin: 0 auto;" src="https://i.imgur.com/zrqaPGm.gif">
+</p>
 
 ---
 
@@ -144,7 +158,9 @@ sonic
 doggy
 ```
 
-![Doggy](https://i.imgur.com/aE3wMr6.gif)
+<p align="center">
+ <img alt="Doggy" style="display: none; margin: 0 auto;" src="https://i.imgur.com/aE3wMr6.gif">
+</p>
 
 ---
 
@@ -158,7 +174,9 @@ doggy
 spongebob
 ```
 
-![Spongebob](https://i.imgur.com/gmGfyce.gif)
+<p align="center">
+ <img alt="Spongebob" style="display: none; margin: 0 auto;" src="https://i.imgur.com/gmGfyce.gif">
+</p>
 
 ---
 
@@ -172,7 +190,9 @@ spongebob
 gun
 ```
 
-![Gun](https://i.imgur.com/cz8iq8n.gif)
+<p align="center">
+ <img alt="Gun" style="display: none; margin: 0 auto;" src="https://i.imgur.com/cz8iq8n.gif">
+</p>
 
 ---
 
@@ -186,7 +206,9 @@ gun
 money
 ```
 
-![Money](https://i.imgur.com/Q2W7OXx.gif)
+<p align="center">
+ <img alt="Money" style="display: none; margin: 0 auto;" src="https://i.imgur.com/Q2W7OXx.gif">
+</p>
 
 
 ## License
