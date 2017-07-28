@@ -1,4 +1,6 @@
-## A javascript library which includes easter egg.
+## easter-egg-collection
+> A javascript library which includes easter egg.
+[![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
 
 [Just have fun](https://weichiachang.github.io/Easter-egg)!
 
