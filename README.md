@@ -21,6 +21,8 @@ In your JavaScript file:
 import collection from 'easter-egg-collection'
 ```
 
+Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
+
 ## Quick Start
 
 #### pikachu
