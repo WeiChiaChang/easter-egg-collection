@@ -9,6 +9,11 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 ## Installation
 
+In a browser:
+```javascript
+<script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/main.js"></script>
+```
+
 Using npm:
 
 ```javascript
