@@ -30,7 +30,7 @@ import collection from 'easter-egg-collection'
 pikachu
 ```
 
-![Pikachu](https://i.imgur.com/HsnDIk0.gif)
+<img alt="Pikachu" style="display: none; margin: 0 auto;" src="https://i.imgur.com/HsnDIk0.gif">
 
 ---
 
