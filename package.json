@@ -1,0 +1,23 @@
+{
+  "name": "easter-egg-collection",
+  "version": "1.2.1",
+  "description": "A easter-egg collection with funny stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiChiaChang/Easter-egg.git"
+  },
+  "keywords": [
+    "easter-egg",
+    "js-tricks"
+  ],
+  "author": "weichiachang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeiChiaChang/Easter-egg/issues"
+  },
+  "homepage": "https://github.com/WeiChiaChang/Easter-egg/#readme"
+}
