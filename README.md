@@ -14,13 +14,13 @@ In a browser:
 <script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/main.js"></script>
 ```
 
-Using npm:
+Or using npm:
 
 ```shell
 npm install easter-egg-collection --save-dev
 ```
 
-In your JavaScript file:
+Then in your JavaScript file:
 
 ```javascript
 import collection from 'easter-egg-collection'
