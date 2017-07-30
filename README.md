@@ -221,6 +221,22 @@ money
  <img alt="Money" style="display: none; margin: 0 auto;" src="https://i.imgur.com/Q2W7OXx.gif">
 </p>
 
+---
+
+#### homer
+
+> Wise man Homer
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'homer' in your browser -->
+homer
+```
+
+<p align="center">
+ <img alt="Homer" style="display: none; margin: 0 auto;" src="https://i.imgur.com/fzJcnSD.gif">
+</p>
+
 
 ## License
 
