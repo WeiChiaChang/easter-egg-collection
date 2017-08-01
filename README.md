@@ -1,4 +1,4 @@
-## easter-egg-collection
+## 🐰 easter-egg-collection
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > A javascript library which includes easter eggs.
 
@@ -8,7 +8,7 @@
 
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
-## Installation
+## 🎉 Installation
 
 In a browser (CDN):
 ```html
@@ -29,7 +29,7 @@ import collection from 'easter-egg-collection'
 
 Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
-## Quick Start
+## ⚡️ Quick Start
 
 #### pikachu
 
@@ -238,7 +238,7 @@ homer
 </p>
 
 
-## License
+## ©️ License
 
 (The MIT License)
 
