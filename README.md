@@ -10,7 +10,7 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 ## Installation
 
-In a browser:
+In a browser (CDN):
 ```html
 <script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/main.js"></script>
 ```
