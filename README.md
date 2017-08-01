@@ -1,4 +1,4 @@
-## 🐰 easter-egg-collection
+# 🐰 easter-egg-collection
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > A javascript library which includes easter eggs.
 
