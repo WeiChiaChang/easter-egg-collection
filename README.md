@@ -1,6 +1,6 @@
 ## easter-egg-collection
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-> A javascript library which includes easter egg.
+> A javascript library which includes easter eggs.
 
 [![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
 
