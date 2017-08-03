@@ -255,6 +255,22 @@ dog
  <img alt="Dog" style="display: none; margin: 0 auto;" src="https://i.imgur.com/QDi8sbM.gif">
 </p>
 
+---
+
+#### bird
+
+> Stupid birds fly slowly
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'bird' in your browser -->
+bird
+```
+
+<p align="center">
+ <img alt="Bird" style="display: none; margin: 0 auto;" src="https://i.imgur.com/aAsrMKo.gif">
+</p>
+
 
 ## ©️ License
 
