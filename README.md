@@ -6,9 +6,10 @@
 
 [![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
 
-[Just have fun](https://weichiachang.github.io/Easter-egg)!
-
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
+
+## 📖 Documentation
+[Just have fun](https://weichiachang.github.io/Easter-egg)!
 
 ## 🎉 Installation
 
