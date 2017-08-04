@@ -274,6 +274,22 @@ bird
  <img alt="Bird" style="display: none; margin: 0 auto;" src="https://i.imgur.com/aAsrMKo.gif">
 </p>
 
+---
+
+#### piqiu
+
+> A piqiu a day keeps worries away
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'piqiu' in your browser -->
+piqiu
+```
+
+<p align="center">
+ <img alt="Piqiu" style="display: none; margin: 0 auto;" src="https://i.imgur.com/3OVA8hx.gif">
+</p>
+
 
 ## ©️ License
 
