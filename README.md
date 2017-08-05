@@ -290,6 +290,21 @@ piqiu
  <img alt="Piqiu" style="display: none; margin: 0 auto;" src="https://i.imgur.com/3OVA8hx.gif">
 </p>
 
+---
+
+#### lol
+
+> Haha, you're funny
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'lol' in your browser -->
+lol
+```
+
+<p align="center">
+ <img alt="Lol" style="display: none; margin: 0 auto;" src="https://i.imgur.com/JzT4AaR.gif">
+</p>
 
 ## ©️ License
 
