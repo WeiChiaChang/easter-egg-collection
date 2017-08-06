@@ -306,6 +306,22 @@ lol
  <img alt="Lol" style="display: none; margin: 0 auto;" src="https://i.imgur.com/JzT4AaR.gif">
 </p>
 
+---
+
+#### ohhh
+
+> Mordecai & Rigby with OHHHHHHHHHHHHHH sound
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'ohhh' in your browser -->
+Ohhh
+```
+
+<p align="center">
+ <img alt="Ohhh" style="display: none; margin: 0 auto;" src="https://i.imgur.com/3f70bsr.gif">
+</p>
+
 ## ©️ License
 
 (The MIT License)
