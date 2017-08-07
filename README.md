@@ -10,6 +10,8 @@
 
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
+All of the images were derived from [GIPHY](https://giphy.com/).
+
 ## 📖 Documentation
 [Just have fun](https://weichiachang.github.io/Easter-egg)!
 
