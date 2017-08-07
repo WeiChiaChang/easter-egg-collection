@@ -322,6 +322,22 @@ Ohhh
  <img alt="Ohhh" style="display: none; margin: 0 auto;" src="https://i.imgur.com/3f70bsr.gif">
 </p>
 
+---
+
+#### nyancat
+
+> Nyan nyan nyan nyan nyan nyan nyan nyan
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'nyancat' in your browser -->
+nyancat
+```
+
+<p align="center">
+ <img alt="Nyancat" style="display: none; margin: 0 auto;" src="https://i.imgur.com/WcTBXUW.gif">
+</p>
+
 ## ©️ License
 
 (The MIT License)
