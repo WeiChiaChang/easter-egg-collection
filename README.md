@@ -38,6 +38,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### dragon
+
+> If you can't take the heat, don't tickle the dragon
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'dragon' in your browser -->
+dragon
+```
+
+<p align="center">
+ <img alt="Dragon" style="display: none; margin: 0 auto;" src="https://i.imgur.com/jUlebex.gif">
+</p>
+
+---
+
 #### salamander
 
 > Are salamanders dangerous to humans?
