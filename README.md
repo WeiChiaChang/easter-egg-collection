@@ -3,6 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![npm version](https://badge.fury.io/js/easter-egg-collection.svg)](https://badge.fury.io/js/easter-egg-collection)
 [![npm](https://img.shields.io/npm/dt/easter-egg-collection.svg)](https://www.npmjs.com/package/easter-egg-collection)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/WeiChiaChang/easter-egg-collection)
 
 [![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
 
