@@ -39,6 +39,20 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### psyduck
+
+> Psyduck with Big Bang 💣
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'psyduck' in your browser -->
+psyduck
+```
+
+<p align="center">
+ <img alt="Psyduck" style="display: none; margin: 0 auto;" src="https://i.imgur.com/Djl4oID.gif">
+</p>
+
 #### dragon
 
 > If you can't take the heat, don't tickle the dragon
