@@ -16,7 +16,7 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 📖 Documentation
-[Just have fun](https://weichiachang.github.io/Easter-egg)!
+[Just have fun](https://weichiachang.github.io/Easter-egg) ( Easter eggs can be triggered in this documentation! ) !
 
 ## 🎉 Installation
 
