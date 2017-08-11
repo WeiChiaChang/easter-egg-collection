@@ -2,10 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![dependencies Status](https://david-dm.org/weichiachang/easter-egg-collection/status.svg)](https://david-dm.org/weichiachang/easter-egg-collection)
+[![Known Vulnerabilities](https://snyk.io/test/npm/easter-egg-collection/badge.svg)](https://snyk.io/test/npm/easter-egg-collection)
 
 [![npm version](https://badge.fury.io/js/easter-egg-collection.svg)](https://badge.fury.io/js/easter-egg-collection)
 [![npm](https://img.shields.io/npm/dt/easter-egg-collection.svg)](https://www.npmjs.com/package/easter-egg-collection)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/WeiChiaChang/easter-egg-collection)
+[![devDependencies Status](https://david-dm.org/weichiachang/easter-egg-collection/dev-status.svg)](https://david-dm.org/weichiachang/easter-egg-collection?type=dev)
 
 [![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
 
