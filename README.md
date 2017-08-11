@@ -43,6 +43,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### piggy
+
+> Here comes wild boar knight 🐷
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'piggy' in your browser -->
+piggy
+```
+
+<p align="center">
+ <img alt="Piggy" style="display: none; margin: 0 auto;" src="https://i.imgur.com/RZGnd1b.gif">
+</p>
+
+---
+
 #### psyduck
 
 > Psyduck with Big Bang 💣
