@@ -60,6 +60,20 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### sensei
+
+> wa ka ri ma shi ta 🏫
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'sensei' in your browser -->
+sensei
+```
+
+<p align="center">
+ <img alt="Sensei" style="display: none; margin: 0 auto;" src="https://i.imgur.com/FWQgtO9.gif">
+</p>
+
 #### piggy
 
 > Here comes wild boar knight 🐷
