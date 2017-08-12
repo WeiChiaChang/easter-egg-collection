@@ -20,6 +20,7 @@
 <p align="center">
   <a target="_blank" href="https://badge.fury.io/js/easter-egg-collection" title="npm version"><img src="https://badge.fury.io/js/easter-egg-collection.svg"></a>
   <a target="_blank" href="https://www.npmjs.com/package/easter-egg-collection" title="npm"><img src="https://img.shields.io/npm/dt/easter-egg-collection.svg"></a>
+  <a target="_blank" href="https://www.npmjs.com/package/easter-egg-collection" title="npm"><img src="https://img.shields.io/npm/dm/easter-egg-collection.svg"></a>
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection" title="contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
   <a target="_blank" href="https://snyk.io/test/npm/easter-egg-collection"><img src="https://snyk.io/test/npm/easter-egg-collection/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/easter-egg-collection" style="max-width:100%;"></a>
 </p>
