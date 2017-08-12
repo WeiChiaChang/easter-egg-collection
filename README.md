@@ -1,17 +1,28 @@
 # 🐰 easter-egg-collection
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![dependencies Status](https://david-dm.org/weichiachang/easter-egg-collection/status.svg)](https://david-dm.org/weichiachang/easter-egg-collection)
-[![devDependencies Status](https://david-dm.org/weichiachang/easter-egg-collection/dev-status.svg)](https://david-dm.org/weichiachang/easter-egg-collection?type=dev)
 
-[![npm version](https://badge.fury.io/js/easter-egg-collection.svg)](https://badge.fury.io/js/easter-egg-collection)
-[![npm](https://img.shields.io/npm/dt/easter-egg-collection.svg)](https://www.npmjs.com/package/easter-egg-collection)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/WeiChiaChang/easter-egg-collection)
-[![Known Vulnerabilities](https://snyk.io/test/npm/easter-egg-collection/badge.svg)](https://snyk.io/test/npm/easter-egg-collection)
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
+    <img width="400" alt="easter-egg-collection" src="http://i.imgur.com/iEHPU2J.png" width="546">
+  </a>
+</p>
 
-[![NPM](https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/easter-egg-collection/)
+<p align="center">
+  A javascript library which includes easter eggs.
+</p>
 
-> A javascript library which includes easter eggs.
+<p align="center">
+  <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+  <a target="_blank" href="https://david-dm.org/weichiachang/easter-egg-collection" title="dependencies status"><img src="https://david-dm.org/weichiachang/easter-egg-collection/status.svg"/></a>
+  <a target="_blank" href="https://david-dm.org/weichiachang/easter-egg-collection?type=dev" title="devDependencies status"><img src="https://david-dm.org/weichiachang/easter-egg-collection/dev-status.svg"/></a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://badge.fury.io/js/easter-egg-collection" title="npm version"><img src="https://badge.fury.io/js/easter-egg-collection.svg"></a>
+  <a target="_blank" href="https://www.npmjs.com/package/easter-egg-collection" title="npm"><img src="https://img.shields.io/npm/dt/easter-egg-collection.svg"></a>
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection" title="contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a target="_blank" href="https://snyk.io/test/npm/easter-egg-collection"><img src="https://snyk.io/test/npm/easter-egg-collection/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/easter-egg-collection" style="max-width:100%;"></a>
+</p>
 
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
