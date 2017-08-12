@@ -28,6 +28,8 @@
   <a target="_blank" href="https://nodei.co/npm/easter-egg-collection" title="NPM"><img src="https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
 
+<hr>
+
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
 All of the images were derived from [GIPHY](https://giphy.com/).
