@@ -28,7 +28,7 @@
   <a target="_blank" href="https://nodei.co/npm/easter-egg-collection" title="NPM"><img src="https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
 
-<hr>
+## 💡 Inspiration
 
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
