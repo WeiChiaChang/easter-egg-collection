@@ -24,6 +24,10 @@
   <a target="_blank" href="https://snyk.io/test/npm/easter-egg-collection"><img src="https://snyk.io/test/npm/easter-egg-collection/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/easter-egg-collection" style="max-width:100%;"></a>
 </p>
 
+<p align="center">
+  <a target="_blank" href="https://nodei.co/npm/easter-egg-collection" title="NPM"><img src="https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true"></a>
+</p>
+
 Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
 
 All of the images were derived from [GIPHY](https://giphy.com/).
