@@ -61,6 +61,20 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### rabbit
+
+> Maybe She's Born With It, Maybe It's Rabbit 🐇
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'rabbit' in your browser -->
+rabbit
+```
+
+<p align="center">
+ <img alt="Rabbit" style="display: none; margin: 0 auto;" src="https://i.imgur.com/RlFylRn.gif">
+</p>
+
 #### sensei
 
 > wa ka ri ma shi ta 🏫
