@@ -61,6 +61,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### joker
+
+> I can't wait to show you my toys 🃏
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'joker' in your browser -->
+joker
+```
+
+<p align="center">
+ <img alt="Joker" style="display: none; margin: 0 auto;" src="https://i.imgur.com/XYq7GTX.gif">
+</p>
+
+---
+
 #### rabbit
 
 > Maybe She's Born With It, Maybe It's Rabbit 🐇
