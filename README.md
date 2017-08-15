@@ -61,6 +61,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### mario
+
+> Life is a game, kid! It all depends on how you play! 🎮
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'mario' in your browser -->
+mario
+```
+
+<p align="center">
+ <img alt="Mario" style="display: none; margin: 0 auto;" src="https://i.imgur.com/entKupA.gif">
+</p>
+
+---
+
 #### joker
 
 > I can't wait to show you my toys 🃏
