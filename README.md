@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### fox
+
+> The fox changes his fur but not his habits 🐺
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'fox' in your browser -->
+fox
+```
+
+<p align="center">
+ <img alt="Fox" style="display: none; margin: 0 auto;" src="https://i.imgur.com/OpdJKaM.gif">
+</p>
+
+---
+
 #### mario
 
 > Life is a game, kid! It all depends on how you play! 🎮
