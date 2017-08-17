@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### jump
+
+> The only exercise I excel at is jumping to conclusions 🏐
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'jump' in your browser -->
+jump
+```
+
+<p align="center">
+ <img alt="Jump" style="display: none; margin: 0 auto;" src="https://i.imgur.com/zSTGofL.gif">
+</p>
+
+---
+
 #### fox
 
 > The fox changes his fur but not his habits 🐺
