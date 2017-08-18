@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### tank
+
+> If the tanks succeed, then victory follows ⤵
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'tank' in your browser -->
+tank
+```
+
+<p align="center">
+ <img alt="Tank" style="display: none; margin: 0 auto;" src="https://i.imgur.com/6i9GRUQ.gif">
+</p>
+
+---
+
 #### jump
 
 > The only exercise I excel at is jumping to conclusions 🏐
