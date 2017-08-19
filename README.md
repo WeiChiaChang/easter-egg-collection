@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### winner
+
+> Without losers, where would the winners be? 🏆
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'winner' in your browser -->
+winner
+```
+
+<p align="center">
+ <img alt="Winner" style="display: none; margin: 0 auto;" src="https://i.imgur.com/aFJFC6W.gif">
+</p>
+
+---
+
 #### tank
 
 > If the tanks succeed, then victory follows ⤵
