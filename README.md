@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### handsome
+
+> I'm a handsome man with a charming personality 😎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'handsome' in your browser -->
+handsome
+```
+
+<p align="center">
+ <img alt="Handsome" style="display: none; margin: 0 auto;" src="https://i.imgur.com/pA30jqZ.gif">
+</p>
+
+---
+
 #### winner
 
 > Without losers, where would the winners be? 🏆
