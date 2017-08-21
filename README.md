@@ -62,6 +62,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### penguin
+
+> Easy, breezy, beautiful penguin 🐧
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'penguin' in your browser -->
+penguin
+```
+
+<p align="center">
+ <img alt="Penguin" style="display: none; margin: 0 auto;" src="https://i.imgur.com/PFT49WH.gif">
+</p>
+
+---
+
 #### handsome
 
 > I'm a handsome man with a charming personality 😎
