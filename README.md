@@ -62,6 +62,23 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+
+#### swim
+
+> H2O = 2 parts heart, one part obsession 🏊
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'swim' in your browser -->
+swim
+```
+
+<p align="center">
+ <img alt="Swim" style="display: none; margin: 0 auto;" src="https://i.imgur.com/7CKafBS.gif">
+</p>
+
+---
+
 #### penguin
 
 > Easy, breezy, beautiful penguin 🐧
