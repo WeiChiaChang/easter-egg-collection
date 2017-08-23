@@ -67,6 +67,21 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### thank you
+
+> You can do anything, but not everything 🙏
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'thankyou' in your browser -->
+thank you
+```
+
+<p align="center">
+ <img alt="Thank You" style="display: none; margin: 0 auto;" src="https://i.imgur.com/PXVdtZG.gif">
+</p>
+
+---
 
 #### swim
 
