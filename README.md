@@ -11,13 +11,16 @@
 </p>
 
 <p align="center">
+  <a target="_blank" href="http://npm.packagequality.com/badge/easter-egg-collection.png" title="package quailty"><img src="http://npm.packagequality.com/badge/easter-egg-collection.png"/></a>
+</p>
+
+<p align="center">
   <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
   <a target="_blank" href="https://david-dm.org/weichiachang/easter-egg-collection" title="dependencies status"><img src="https://david-dm.org/weichiachang/easter-egg-collection/status.svg"/></a>
   <a target="_blank" href="https://david-dm.org/weichiachang/easter-egg-collection?type=dev" title="devDependencies status"><img src="https://david-dm.org/weichiachang/easter-egg-collection/dev-status.svg"/></a>
   <a target="_blank" href="#-documentation" title="live example"><img src="https://img.shields.io/badge/%F0%9F%92%A1-examples-8C8E93.svg?style=flat"/></a>
   <a target="_blank" href="https://readme-score-api.herokuapp.com/score.svg?url=WeiChiaChang/easter-egg-collection" title="score me"><img src="https://readme-score-api.herokuapp.com/score.svg?url=WeiChiaChang/easter-egg-collection"/></a>
-  <a target="_blank" href="http://npm.packagequality.com/badge/easter-egg-collection.png" title="score me"><img src="http://npm.packagequality.com/badge/easter-egg-collection.png"/></a>
 </p>
 
 <p align="center">
