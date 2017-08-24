@@ -67,6 +67,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### earth
+
+> Save earth to save life 🌎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'earth' in your browser -->
+earth
+```
+
+<p align="center">
+ <img alt="Earth" style="display: none; margin: 0 auto;" src="https://i.imgur.com/lu11Vnk.gif">
+</p>
+
+---
+
 #### thankyou
 
 > You can do anything, but not everything 🙏
