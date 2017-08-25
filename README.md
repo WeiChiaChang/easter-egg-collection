@@ -67,6 +67,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### fly
+
+> I can't stop moving. I'm like this weird insect. I can't sit still in real life 🐛
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'fly' in your browser -->
+fly
+```
+
+<p align="center">
+ <img alt="Fly" style="display: none; margin: 0 auto;" src="https://i.imgur.com/ggWk17I.gif">
+</p>
+
+---
+
 #### earth
 
 > Save earth to save life 🌎
