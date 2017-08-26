@@ -67,6 +67,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### snorlax
+
+> Just do it, later 😆
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'snorlax' in your browser -->
+snorlax
+```
+
+<p align="center">
+ <img alt="Snorlax" style="display: none; margin: 0 auto;" src="https://i.imgur.com/ABegxEv.gif">
+</p>
+
+---
+
 #### fly
 
 > I can't stop moving. I'm like this weird insect. I can't sit still in real life 🐛
