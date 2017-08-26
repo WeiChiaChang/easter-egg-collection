@@ -32,6 +32,10 @@
 </p>
 
 <p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://img.shields.io/github/stars/WeiChiaChang/easter-egg-collection.svg?style=social&label=Star" alt="github stars">   </a>
+</p>
+
+<p align="center">
   <a target="_blank" href="https://nodei.co/npm/easter-egg-collection" title="NPM"><img src="https://nodei.co/npm/easter-egg-collection.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
 
