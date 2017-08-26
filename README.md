@@ -33,7 +33,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://img.shields.io/github/stars/WeiChiaChang/easter-egg-collection.svg?style=social&label=Star" alt="github stars">   </a>
-  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://img.shields.io/github/followers/WeiChiaChang.svg?style=social&label=Follow" alt="GitHub followers">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection" aria-label="Follow @WeiChiaChang on GitHub"><img src="https://img.shields.io/github/followers/WeiChiaChang.svg?style=social&label=Follow" alt="GitHub followers">
   </a>
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
   </a>
