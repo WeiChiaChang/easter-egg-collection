@@ -75,6 +75,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### haters
+
+> When there's so many haters and negative things, I really don't care 🤔
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'haters' in your browser -->
+haters
+```
+
+<p align="center">
+ <img alt="Haters" style="display: none; margin: 0 auto;" src="https://i.imgur.com/plKHiwS.gif">
+</p>
+
+---
+
 #### board
 
 > Skate or die 👾
