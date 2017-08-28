@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
-    <img width="400" alt="easter-egg-collection" src="http://i.imgur.com/iEHPU2J.png" width="546">
+    <img width="160" alt="easter-egg-collection" src="http://i.imgur.com/pnVXOKz.png">
   </a>
 </p>
 
