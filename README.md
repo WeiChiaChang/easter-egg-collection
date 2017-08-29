@@ -56,7 +56,7 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 In a browser (CDN):
 ```html
-<script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/main.js"></script>
+<script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/easter-eggs-collection.js"></script>
 ```
 
 Or using npm:
