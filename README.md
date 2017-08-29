@@ -51,6 +51,7 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 📖 Documentation
 [Just have fun](https://goo.gl/Fi2cSL) ( <b>Easter eggs can be triggered in this documentation</b> ) !
+<br>
 Or... [Codepen](https://codepen.io/WeiChiaChang/pen/xLQVXm) for live example !
 
 ## 🎉 Installation
