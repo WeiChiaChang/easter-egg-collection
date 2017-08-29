@@ -50,7 +50,8 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 📖 Documentation
-[Just have fun](https://goo.gl/Fi2cSL) ( Easter eggs can be triggered in this documentation! ) !
+[Just have fun](https://goo.gl/Fi2cSL) ( <b>Easter eggs can be triggered in this documentation</b> ) !
+Or... [Codepen](https://codepen.io/WeiChiaChang/pen/xLQVXm) for live example !
 
 ## 🎉 Installation
 
