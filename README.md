@@ -77,6 +77,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### onmyway
+
+> Stressed? Why not walk it off 🚶
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'onmyway' in your browser -->
+onmyway
+```
+
+<p align="center">
+ <img alt="Onmyway" style="display: none; margin: 0 auto;" src="https://i.imgur.com/q0A5FzR.gif">
+</p>
+
+---
+
 #### haters
 
 > When there's so many haters and negative things, I really don't care 🤔
