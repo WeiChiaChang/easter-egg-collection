@@ -77,6 +77,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### no
+
+> No smoking 🚬
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'no' in your browser -->
+no
+```
+
+<p align="center">
+ <img alt="No" style="display: none; margin: 0 auto;" src="https://i.imgur.com/lZK6DiW.gif">
+</p>
+
+---
+
 #### onmyway
 
 > Stressed? Why not walk it off 🚶
