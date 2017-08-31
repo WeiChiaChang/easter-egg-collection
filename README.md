@@ -84,6 +84,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### kirby
+
+> "This grass feels funny," Kirby thought. "It feels like... pants." ༼ つ ◕_◕ ༽つ
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'kirby' in your browser -->
+kirby
+```
+
+<p align="center">
+ <img alt="Kirby" style="display: none; margin: 0 auto;" src="https://i.imgur.com/DnFQ1Gp.gif">
+</p>
+
+---
+
 #### no
 
 > No smoking 🚬
