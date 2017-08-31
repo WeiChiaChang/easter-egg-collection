@@ -49,11 +49,6 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 All of the images were derived from [GIPHY](https://giphy.com/).
 
-<p align="center">
-  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
-    <img alt="easter-egg-collection" src="https://i.imgur.com/xYzIfCS.png">
-  </a>
-</p>
 
 ## 📖 Documentation
 [Just have fun](https://goo.gl/Fi2cSL) ( <b>Easter eggs can be triggered in this documentation</b> ) !
@@ -80,6 +75,12 @@ import collection from 'easter-egg-collection'
 ```
 
 Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
+
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
+    <img alt="easter-egg-collection" src="https://i.imgur.com/xYzIfCS.png">
+  </a>
+</p>
 
 ## ⚡️ Quick Start
 
