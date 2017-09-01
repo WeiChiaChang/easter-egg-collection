@@ -1702,7 +1702,7 @@ function pikarun () {
     img.style.transition = '4s all'
     img.style.position = 'fixed'
     img.style.left = '-400px'
-    img.style.bottom = 'calc(-50% + 320px)'
+    img.style.bottom = '0px'
     img.style.zIndex = 999999
 
     document.body.appendChild(img)
@@ -1764,7 +1764,7 @@ function catrun () {
     img.style.transition = '6s all linear'
     img.style.position = 'fixed'
     img.style.left = '-400px'
-    img.style.bottom = 'calc(-50% + 300px)'
+    img.style.bottom = '0px'
     img.style.zIndex = 999999
 
     document.body.appendChild(img)
@@ -2666,7 +2666,7 @@ function salamander () {
     img.style.transition = '13s all';
     img.style.position = 'fixed';
     img.style.right = '-374px';
-    img.style.bottom = 'calc(-50% + 320px)';
+    img.style.bottom = '0px';
     img.style.zIndex = 999999;
 
     document.body.appendChild(img);
