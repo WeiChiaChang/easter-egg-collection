@@ -84,6 +84,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### hangover
+
+> What in the world is a hangover cure? 🍷
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hangover' in your browser -->
+hangover
+```
+
+<p align="center">
+ <img alt="Hangover" style="display: none; margin: 0 auto;" src="https://i.imgur.com/0IXYKXg.gif">
+</p>
+
+---
+
 #### kirby
 
 > "This grass feels funny," Kirby thought. "It feels like... pants." ༼ つ ◕_◕ ༽つ
