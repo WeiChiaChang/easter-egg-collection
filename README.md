@@ -84,6 +84,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### balloon
+
+> What is success? It is a toy balloon among children armed with pins 🎈
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'balloon' in your browser -->
+balloon
+```
+
+<p align="center">
+ <img alt="Balloon" style="display: none; margin: 0 auto;" src="https://i.imgur.com/4bOyiF2.gif">
+</p>
+
+---
+
 #### hangover
 
 > What in the world is a hangover cure? 🍷
