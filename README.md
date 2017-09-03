@@ -84,6 +84,23 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### cool
+
+> My key to dealing with stress is simple: just stay cool and stay focused 😎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'cool' in your browser -->
+cool
+```
+
+<p align="center">
+ <img alt="Cool" style="display: none; margin: 0 auto;" src="https://i.imgur.com/g0QSLmj.gif">
+</p>
+
+
+---
+
 #### balloon
 
 > What is success? It is a toy balloon among children armed with pins 🎈
