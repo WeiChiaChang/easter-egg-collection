@@ -65,7 +65,7 @@ In a browser (CDN):
 Or using npm:
 
 ```shell
-npm install easter-egg-collection --save-dev
+npm i easter-egg-collection -D
 ```
 
 Then in your JavaScript file:
