@@ -84,6 +84,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### walk
+
+> I am a slow walker, but I never walk back 🚶
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'walk' in your browser -->
+walk
+```
+
+<p align="center">
+ <img alt="Walk" style="display: none; margin: 0 auto;" src="https://i.imgur.com/6EvNP6y.gif">
+</p>
+
+---
+
 #### cool
 
 > My key to dealing with stress is simple: just stay cool and stay focused 😎
