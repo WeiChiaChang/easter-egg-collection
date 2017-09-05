@@ -851,7 +851,7 @@ nyancat
 
 (The MIT License)
 
-Copyright (c) 2017 - WeiChiaChang - https://codepen.io/isdampe/pen/OXYZZO
+Copyright (c) 2017 - WeiChiaChang - https://codepen.io/isdampe/pen/OXYZZO (Original source from Richard Denton)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
