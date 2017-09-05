@@ -82,6 +82,8 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
   </a>
 </p>
 
+> Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card)! Thank you!
+
 ## ⚡️ Quick Start
 
 #### walk
