@@ -86,6 +86,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### ufo
+
+> From 1961 to 1965 Barney and I had not seen another UFO 👽
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'ufo' in your browser -->
+ufo
+```
+
+<p align="center">
+ <img alt="Ufo" style="display: none; margin: 0 auto;" src="https://i.imgur.com/AkFfIv8.gif">
+</p>
+
+---
+
 #### walk
 
 > I am a slow walker, but I never walk back 🚶
