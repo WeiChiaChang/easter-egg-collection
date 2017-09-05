@@ -78,7 +78,7 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
-    <img alt="easter-egg-collection" src="https://i.imgur.com/zhn9Tr6.png">
+    <img alt="easter-egg-collection" src="https://i.imgur.com/AzRZ3rB.png">
   </a>
 </p>
 
