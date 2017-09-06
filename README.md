@@ -91,6 +91,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### pie
+
+> So the pie isn't perfect? Cut it into wedges. Stay in control, and never panic 🍕
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'pie' in your browser -->
+pie
+```
+
+<p align="center">
+ <img alt="Pie" style="display: none; margin: 0 auto;" src="https://i.imgur.com/YnR31FU.gif">
+</p>
+
+---
+
 #### ufo
 
 > From 1961 to 1965 Barney and I had not seen another UFO 👽
