@@ -84,6 +84,11 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 > Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card)! Thank you!
 
+## 📰 Press highlights
+
+[Дайджест свежих материалов из мира фронтенда за последнюю неделю №278 (28 августа — 3 сентября 2017)](https://habrahabr.ru/company/zfort/blog/337068/)
+[35 выпуск 05 сезона.](http://www.rwpod.com/posts/2017/09/04/podcast-05-35.html#.Wa-PipMjFE4)
+
 ## ⚡️ Quick Start
 
 #### ufo
