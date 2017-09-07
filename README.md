@@ -89,6 +89,7 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 - [Дайджест свежих материалов из мира фронтенда за последнюю неделю №278](https://habrahabr.ru/company/zfort/blog/337068/)
 - [35 выпуск 05 сезона.](http://www.rwpod.com/posts/2017/09/04/podcast-05-35.html#.Wa-PipMjFE4)
+- [Frontend Weekly Digest #22 (28 August — 4 September 2017)](https://medium.com/@frontender_ua/frontend-weekly-digest-22-28-august-4-september-2017-be17af7850a0)
 
 ## ⚡️ Quick Start
 
