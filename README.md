@@ -92,6 +92,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### pokeball
+
+> Keep Calm And Go 🚀
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'pokeball' in your browser -->
+pokeball
+```
+
+<p align="center">
+ <img alt="Pokeball" style="display: none; margin: 0 auto;" src="https://i.imgur.com/zUErX2s.gif">
+</p>
+
+---
+
 #### pie
 
 > So the pie isn't perfect? Cut it into wedges. Stay in control, and never panic 🍕
