@@ -32,6 +32,7 @@
 </p>
 
 <p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://img.shields.io/github/watchers/WeiChiaChang/easter-egg-collection.svg?style=social&label=Watch" alt="github watchers">   </a>
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection"><img src="https://img.shields.io/github/stars/WeiChiaChang/easter-egg-collection.svg?style=social&label=Star" alt="github stars">   </a>
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection" title="Follow @WeiChiaChang on GitHub"><img src="https://img.shields.io/github/followers/WeiChiaChang.svg?style=social&label=Follow" alt="GitHub followers">
   </a>
