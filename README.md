@@ -93,6 +93,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### hippo
+
+> You Deserve A Hippo Today 😎
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hippo' in your browser -->
+hippo
+```
+
+<p align="center">
+ <img alt="Hippo" style="display: none; margin: 0 auto;" src="https://i.imgur.com/zz9G7i6.gif">
+</p>
+
+---
+
 #### pokeball
 
 > Keep Calm And Go 🚀
