@@ -93,6 +93,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### hiphop
+
+> That's what hip-hop is: It's sociology and English put to a beat, you know 🎶
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hiphop' in your browser -->
+hiphop
+```
+
+<p align="center">
+ <img alt="Hiphop" style="display: none; margin: 0 auto;" src="https://i.imgur.com/JUHDJ0s.gif">
+</p>
+
+---
+
 #### hippo
 
 > You Deserve A Hippo Today 😎
