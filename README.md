@@ -104,7 +104,7 @@ bat
 ```
 
 <p align="center">
- <img alt="Bat" style="display: none; margin: 0 auto;" src="https://i.imgur.com/tBge8mr.gif">
+ <img alt="Bat" style="display: none; margin: 0 auto;" src="https://i.imgur.com/sOBEbn0.gif">
 </p>
 
 ---
