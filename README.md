@@ -93,6 +93,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### bat
+
+> You gotta keep the ball off the fat part of the bat ⚰
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'bat' in your browser -->
+bat
+```
+
+<p align="center">
+ <img alt="Bat" style="display: none; margin: 0 auto;" src="https://i.imgur.com/tBge8mr.gif">
+</p>
+
+---
+
 #### robot
 
 > We're fascinated with robots because they are reflections of ourselves 🤖
