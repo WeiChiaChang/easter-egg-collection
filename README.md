@@ -93,6 +93,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### travel
+
+> Wherever you go, go with all your heart 🌇
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'travel' in your browser -->
+travel
+```
+
+<p align="center">
+ <img alt="Travel" style="display: none; margin: 0 auto;" src="https://i.imgur.com/Rhm6vpg.gif">
+</p>
+
+---
+
 #### bat
 
 > You gotta keep the ball off the fat part of the bat ⚰
