@@ -58,8 +58,7 @@ Or... [Codepen](https://codepen.io/WeiChiaChang/pen/xLQVXm?editors=1100) for liv
 
 ## 😋 Another Special Edition for Mobile Deivce
 
-[easter-eggs-mobile](https://github.com/WeiChiaChang/easter-eggs-mobile) 
-Trigger easter eggs on 📱 !
+[easter-eggs-mobile](https://github.com/WeiChiaChang/easter-eggs-mobile) help you trigger easter eggs on 📱 !
 
 ## 🎉 Installation
 
