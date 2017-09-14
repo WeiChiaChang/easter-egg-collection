@@ -56,7 +56,7 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 Or... [Codepen](https://codepen.io/WeiChiaChang/pen/xLQVXm?editors=1100) for live example !
 
-## 😋 Another Special Edition for Mobile Deivce
+## 😋 Another Special Edition for Mobile Device
 
 [easter-eggs-mobile](https://github.com/WeiChiaChang/easter-eggs-mobile) help you trigger easter eggs on 📱 !
 
