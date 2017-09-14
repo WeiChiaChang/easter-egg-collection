@@ -98,6 +98,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### haha
+
+> Behind every great man is a woman rolling her eyes ☺️
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'haha' in your browser -->
+haha
+```
+
+<p align="center">
+ <img alt="Haha" style="display: none; margin: 0 auto;" src="https://i.imgur.com/n8CnIt2.gif">
+</p>
+
+---
+
 #### travel
 
 > Wherever you go, go with all your heart 🌇
