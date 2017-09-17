@@ -1,6 +1,6 @@
 {
   "name": "easter-egg-collection",
-  "version": "1.4.48",
+  "version": "1.4.50",
   "description": "A easter-egg collection with funny stuff.",
   "main": "index.js",
   "scripts": {
