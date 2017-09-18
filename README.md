@@ -96,7 +96,7 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 - [Frontend Weekly Digest #22 (28 August — 4 September 2017)](https://medium.com/@frontender_ua/frontend-weekly-digest-22-28-august-4-september-2017-be17af7850a0)
 - [干货集中营 09月14日:今日力推](https://gank.io/2017/09/14)
 - [BetaPage](https://betapage.co/product/easter-egg-collection)
-- [Trenging Page on BetaPage](https://twitter.com/beta_page/status/908938887921201152)
+- [Trending Page on BetaPage](https://twitter.com/beta_page/status/908938887921201152)
 
 ## ⚡️ Quick Start
 
