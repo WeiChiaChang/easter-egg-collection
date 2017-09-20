@@ -104,6 +104,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### wink
+
+> Wink and shut their apprehensions up 😜
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'wink' in your browser -->
+wink
+```
+
+<p align="center">
+ <img alt="Wink" style="display: none; margin: 0 auto;" src="https://i.imgur.com/N4mPiWW.gif">
+</p>
+
+---
+
 #### unicorn
 
 > I wish I were a unicorn, so I could stab idiots with my head 🦄
