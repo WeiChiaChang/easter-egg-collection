@@ -50,6 +50,10 @@ Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZ
 
 All of the images were derived from [GIPHY](https://giphy.com/).
 
+## ✍️ Feedback
+
+[The reason why I want to do this side project](https://github.com/WeiChiaChang/Daily-Digest-Collection/issues/6).
+
 
 ## 📖 Documentation with Live Demo 🤘
 [Just have fun](https://goo.gl/Fi2cSL) ( <b>Easter eggs can be triggered in this documentation</b> ) !
