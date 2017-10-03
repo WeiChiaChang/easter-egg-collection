@@ -104,6 +104,22 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## ⚡️ Quick Start
 
+#### hi
+
+> Set your goals high, and don't stop till you get there 👋
+
+```html
+<!-- There's no need to open console -->
+<!-- Just type 'hi' in your browser -->
+hi
+```
+
+<p align="center">
+ <img alt="Hi" style="display: none; margin: 0 auto;" src="https://i.imgur.com/gOuUuKp.gif">
+</p>
+
+---
+
 #### wink
 
 > Wink and shut their apprehensions up 😜
