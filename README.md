@@ -102,6 +102,12 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 - [BetaPage](https://betapage.co/product/easter-egg-collection)
 - [Trending Page on BetaPage](https://twitter.com/beta_page/status/908938887921201152)
 
+<p align="center">
+  <a target="_blank" href="https://codepen.io/WeiChiaChang/pen/xLQVXm">
+    <img alt="easter-egg-collection" src="https://i.imgur.com/jU6Vc91.png">
+  </a>
+</p>
+
 ## ⚡️ Quick Start
 
 #### hi
