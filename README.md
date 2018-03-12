@@ -54,6 +54,10 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 [The reason why I want to do this side project](https://github.com/WeiChiaChang/Daily-Digest-Collection/issues/6).
 
+## 💉 Donate
+
+<a href="https://www.buymeacoffee.com/dKPhu3g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 ## 📖 Documentation with Live Demo 🤘
 [Just have fun](https://goo.gl/Fi2cSL) ( <b>Easter eggs can be triggered in this documentation</b> ) !
