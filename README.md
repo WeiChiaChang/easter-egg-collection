@@ -695,7 +695,7 @@ rabbit
 #### sensei
 
 > wa ka ri ma shi ta 🏫
-> "wa ka ri ma shi ta" In English means: I understand 
+>  In English means: I understand 
 ```html
 <!-- There's no need to open console -->
 <!-- Just type 'sensei' in your browser -->
